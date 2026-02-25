@@ -71,5 +71,4 @@ Ostim Teknik Üniversitesi
 🌍 Ankara, Türkiye
 ---
 
-Bir tık daha mı güzelleştirelim? 😌🌸
 
