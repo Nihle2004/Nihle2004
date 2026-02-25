@@ -1,10 +1,3 @@
-## Hi there 👋
-Tamammm 🌸✨ Sana daha **soft, pastel, minimal ama animasyonlu** bir GitHub README hazırladım.
-Daha zarif, daha “AI girl in tech” ama abartısız 💗🤖
-
-Bunu direkt `README.md` dosyana koyabilirsin 👇
-
----
 
 # 🌸 Hi, I'm Nihle Coşkun
 
@@ -76,7 +69,6 @@ Ostim Teknik Üniversitesi
 
 📧 [nihlecoskun@gmail.com](mailto:nihlecoskun@gmail.com)
 🌍 Ankara, Türkiye
-
 ---
 
 Bir tık daha mı güzelleştirelim? 😌🌸
