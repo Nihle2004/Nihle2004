@@ -13,10 +13,12 @@
 Ostim Teknik Üniversitesi
 
 🌱 Continuously improving myself in AI & Machine Learning & Deep Learning
+
 🐍 Working with Python
-📊 Interested in Data Science 
+
+📊 Interested in Data Science & Machine Learning & Deep Learning
+
 🤝 Team-oriented & research-focused
-📍 Based in Ankara, Türkiye
 
 ---
 
