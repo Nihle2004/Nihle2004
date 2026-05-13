@@ -12,9 +12,9 @@
 🎓 3rd Year AI Engineering Student at
 Ostim Teknik Üniversitesi
 
-🌱 Continuously improving myself in AI & Machine Learning
+🌱 Continuously improving myself in AI & Machine Learning & Deep Learning
 🐍 Working with Python
-📊 Interested in Data Science & Deep Learning
+📊 Interested in Data Science 
 🤝 Team-oriented & research-focused
 📍 Based in Ankara, Türkiye
 
