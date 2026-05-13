@@ -22,7 +22,7 @@ Ostim Teknik Üniversitesi.
 
 ---
 
-## 🫶 Tech Stack
+## 🫶 Tech 
 
 ### 💻 Languages
 
