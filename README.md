@@ -2,7 +2,7 @@
 # 🌸 Hi, I'm Nihle Coşkun
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineering+Student;Exploring+Machine+Learning+%26+Data+Science;Learning+by+Building+Projects;Future+AI+Engineer+🤖" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3500&pause=1000&color=F48FB1&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Engineering+Student;Exploring+Machine+Learning+%26+Deep+Learning+%26+Data+Science;Learning+by+Building+Projects;Future+AI+Engineer+🤖" />
 </p>
 
 ---
