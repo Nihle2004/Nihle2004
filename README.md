@@ -16,9 +16,9 @@ Ostim Teknik Üniversitesi.
 
 🐍 I am working with Python.
 
-📊 Interested in Data Science & Machine Learning & Deep Learning
+📊  I am interesting in Data Science & Machine Learning & Deep Learning.
 
-🤝 I am Team-oriented & research-focused.
+🤝 I am team-oriented & research-focused.
 
 ---
 
@@ -38,12 +38,12 @@ Ostim Teknik Üniversitesi.
 
 ---
 
-## 🌷 I am Currently Working On
+## 🌷 I am Currently Workings On
 
-* 📚 Strengthening ML & DL fundamentals
-* 🧠 I am Building portfolio-ready AI projects
-* 🏗 Improving algorithm knowledge
-* 🏆 Preparing for Kaggle competitions
+* 📚 I am strengthening ML & DL fundamentals.
+* 🧠 I am building portfolio-ready AI projects.
+* 🏗  I am improving algorithm knowledge.
+* 🏆 I am preparing for Kaggle competitions.
 
 ---
 
