@@ -38,7 +38,7 @@ Ostim Teknik Üniversitesi.
 
 ---
 
-## 🌷 I am working currently
+## 🌷 I am working currently with this subjects
 
 * 📚 I am strengthening ML & DL fundamentals.
 * 🧠 I am building portfolio-ready AI projects.
