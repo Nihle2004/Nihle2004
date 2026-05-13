@@ -50,11 +50,11 @@ Ostim Teknik Üniversitesi.
 ## 🌸 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nihle2004&show_icons=true&theme=rose_pine&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nihle2004&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
@@ -62,7 +62,7 @@ Ostim Teknik Üniversitesi.
 ## 🐍 Soft Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Nihle2004/Nihle2004/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
