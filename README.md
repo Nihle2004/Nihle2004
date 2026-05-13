@@ -67,10 +67,4 @@ Ostim Teknik Üniversitesi.
 
 ---
 
-## 📫 Let’s Connect
-
-📧 [nihlecoskun@gmail.com](mailto:nihlecoskun@gmail.com)
-🌍 Ankara, Türkiye
----
-
 
