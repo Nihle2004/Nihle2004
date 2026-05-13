@@ -14,11 +14,11 @@ Ostim Teknik Üniversitesi
 
 🌱 Continuously improving myself in AI & Machine Learning & Deep Learning
 
-🐍 Working with Python
+🐍 I am working with Python.
 
 📊 Interested in Data Science & Machine Learning & Deep Learning
 
-🤝 Team-oriented & research-focused
+🤝 I am Team-oriented & research-focused.
 
 ---
 
