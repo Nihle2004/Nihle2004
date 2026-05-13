@@ -9,7 +9,7 @@
 
 ## 💗 About Me
 
-🎓 3rd Year AI Engineering Student at
+🎓 I am 3rd Year AI Engineering Student at
 Ostim Teknik Üniversitesi
 
 🌱 Continuously improving myself in AI & Machine Learning & Deep Learning
