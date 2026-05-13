@@ -9,7 +9,7 @@
 
 ## 💗 About Me
 
-🎓 I am 3rd Year AI Engineering student at
+🎓 I am 3rd year AI Engineering student at
 Ostim Teknik Üniversitesi.
 
 🌱 Continuously improving myself in AI & Machine Learning & Deep Learning
@@ -38,7 +38,7 @@ Ostim Teknik Üniversitesi.
 
 ---
 
-## 🌷 I am Currently Workings On
+## 🌷 I am Currentlys Workings On
 
 * 📚 I am strengthening ML & DL fundamentals.
 * 🧠 I am building portfolio-ready AI projects.
