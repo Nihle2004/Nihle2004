@@ -40,7 +40,7 @@ Ostim Teknik Üniversitesi.
 
 ## 🌷 Currently Working On
 
-* 📚 Strengthening ML fundamentals
+* 📚 Strengthening ML & DL fundamentals
 * 🧠 Building portfolio-ready AI projects
 * 🏗 Improving algorithm knowledge
 * 🏆 Preparing for Kaggle competitions
